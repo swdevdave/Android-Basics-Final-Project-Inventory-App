@@ -21,6 +21,8 @@
 - Order more items with phone contact
 - Delete one or all of your items
 
+** UI on Details view needs a little tweaking. Was good enough for final project, but real world would need more work. **
+
 # Screenshot
 <img src="https://github.com/swdevdave/Android-Basics-Final-Project-Inventory-App/blob/master/app/src/main/res/start.jpg"/><img src="https://github.com/swdevdave/Android-Basics-Final-Project-Inventory-App/blob/master/app/src/main/res/edit.jpg"/><img src="https://github.com/swdevdave/Android-Basics-Final-Project-Inventory-App/blob/master/app/src/main/res/filled.jpg"/>
 ```
