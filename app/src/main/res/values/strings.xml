@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+
+
+    <string name="empty_view_text">No inventory found. \n\nPlease hit + to get started.</string>
+    <string name="action_delete_all_products">Delete All Products</string>
+    <string name="delete_all_dialog_msg">Delete All Products ?</string>
+
+
+    <string name="add_product">Add New Product</string>
+    <string name="edit_product">Edit Product</string>
+
+
+    <string name="supplier_unknown">Unknown</string>
+    <string name="supplier_amazon">Amazon</string>
+    <string name="supplier_barnesandnoble"><![CDATA[Barnes & Noble]]></string>
+    <string name="supplier_powell">Powell</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+
+
+    <string name="product_view">Product view Details</string>
+    <string name="delete_dialog_msg">Delete this Product?</string>
+    <string name="quantity_change_msg">Quantity was changed</string>
+    <string name="quantity_finish_msg">Product stock is out</string>
+
+
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Price</string>
+    <string name="product_quantity">Quantity</string>
+    <string name="product_supplier_name">Supplier Name</string>
+    <string name="product_supplier_phone_number">Supplier Phone Number</string>
+
+
+    <string name="action_save">Save</string>
+
+    <string name="insert_failed">Error with saving product</string>
+    <string name="insert_successful">Product saved successfully</string>
+
+    <string name="update_failed">Error with updating product</string>
+    <string name="update_successful">Product updated successfully</string>
+
+
+    <string name="deleted_all_products_message">Rows deleted from product table</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="delete_product_successful">Product deleted</string>
+    <string name="delete_product_failed">Error with Deleting Product</string>
+
+    <string name="product_name_required">Product name required</string>
+    <string name="price_required">Product price is required</string>
+    <string name="quantity_required">Product quantity is required</string>
+    <string name="supplier_name_required">Supplier Name requires selection, anything but unknown is valid</string>
+    <string name="supplier_phone_required">Supplier Phone is required</string>
+    <string name="product_price_currency">$</string>
+    <string name="delete_product">Delete Product</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="sale">Sale</string>
+    <string name="edit">Edit</string>
+    <string name="already_zero">Product quantity is already 0, add more products</string>
+    <string name="quantity_changed">Quantity was changed</string>
+
+</resources>
