@@ -20,7 +20,7 @@
 - Delete one or all of your items
 
 # Screenshot
-
+<img src="https://github.com/swdevdave/Android-Basics-Final-Project-Inventory-App/blob/master/app/src/main/res/start.jpg"/><img src="https://github.com/swdevdave/Android-Basics-Final-Project-Inventory-App/blob/master/app/src/main/res/edit.jpg"/><img src="https://github.com/swdevdave/Android-Basics-Final-Project-Inventory-App/blob/master/app/src/main/res/filled.jpg"/>
 ```
 PROJECT LICENSE
 
