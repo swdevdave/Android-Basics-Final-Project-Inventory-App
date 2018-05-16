@@ -3,11 +3,13 @@
 - Project **Inventory App** of Android Basics Nanodegree
 - [Android Basics Nanodegree at Udacity.com](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 
-## Android Goodies
+## Android Knowledge
 
 - SQLite with OpenDbHelper
 - Cursors
 - CursorAdapter
+- Menu
+- Alert
 - ListView
 - CRUD: Create, Read, Update and Delete database items
 - Android permissions
